@@ -1,0 +1,60 @@
+/*
+**********************************************
+* Default theme Colors
+**********************************************
+*/
+
+$theme-black : #121212;
+$theme-white : #FFFFFF;
+$theme-blue : #126ADF;
+$body-color : #FCFCFC;
+$text-grey : #989898;
+$light-grey: #F9FAFA;
+$plane-grey: #E4E6E8;
+$plane-black: #0A1629;
+/*
+* Headings
+*/
+$heading-black : #121212;
+
+/*
+* Paragraphs
+*/
+$paragraph-grey : #7D8592;
+
+
+/*
+* forms
+*/
+$placeholder-grey : #7D8592;
+$label-grey : #7D8592;
+$border-grey : #D8E0F0;
+
+
+/*
+* Errors
+*/
+$red-error: #FF5A4E;
+
+/*
+* Success
+*/
+$green-success: #29BFAA;
+
+.bg-blue {
+  background-color: $theme-blue;
+}
+
+.bg-white {
+  background-color: $theme-white;
+}
+
+.greenColor {
+  color: #5FBF24;
+  line-height: 1;
+}
+
+.redColor {
+  color: #E62E2E;
+
+}
